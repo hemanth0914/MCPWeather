@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "/Users/hemanthindala/Documents/mcpcourse/mcpcrashcourse",
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "server/weather.py"
+        ]
+      }
+    }
+  }
+  
